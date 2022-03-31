@@ -17,10 +17,10 @@
     "url": "https://github.com/MaSprGit/my-first-serverless-project/issues"
   },
   "homepage": "https://github.com/MaSprGit/my-first-serverless-project#readme",
-  "devDependencies": {
-    "node-fetch": "^3.2.3"
-  },
   "dependencies": {
     "netlify-cli": "^9.16.0"
+  },
+  "devDependencies": {
+    "node-fetch": "^2.6.7"
   }
 }
